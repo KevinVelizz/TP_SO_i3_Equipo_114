@@ -1,0 +1,3 @@
+Nombre y apellido: Kevin Veliz	
+IP maquina: 192.168.1.8
+Hora: 23:54
