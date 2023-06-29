@@ -20,3 +20,27 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 Hora: 15:57
+
+
+Kevin Veliz GAMMA
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.26  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2803:9800:b012:7f20:3f2a:b4d3:22f1:19ab  prefixlen 64  scopeid 0x0<global>
+        inet6 2803:9800:b012:7f20:ec2:f0ea:57b4:79b  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::f466:fda1:d09f:f6f8  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:e4:c4:27  txqueuelen 1000  (Ethernet)
+        RX packets 238  bytes 30491 (30.4 KB)
+        RX errors 0  dropped 143  overruns 0  frame 0
+        TX packets 90  bytes 11882 (11.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 110  bytes 9744 (9.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 110  bytes 9744 (9.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Hora: 18:25
