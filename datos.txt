@@ -6,7 +6,7 @@ Hora: 23:54
 
 Nombre y apellido: Kevin Veliz BETA
 IP maquina: 192.168.1.8
-Hora: 15:21.
+Hora: 15:21
 =======
 Nombre y apellido: Gian Franzoso
 IP maquina:  192.168.0.1
