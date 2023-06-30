@@ -14,3 +14,7 @@ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 No tuve inconvenientes.
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
 tuve que abrir una maquina virtual, clonar y el comando ifconfig en consola y hacer el pull.
+
+ALFA
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+Tuve que ingresar en una maquina virtual corriendo Ubuntu y hacer un clone del repo. Hice un touch con un archivo txt donde guarde lo que devuelve ifconfig y pushee desde la consola. 
